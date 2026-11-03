@@ -1,13 +1,21 @@
 {
-  "builtAt": "2026-11-01T07:55:20.850Z",
+  "builtAt": "2026-11-03T02:22:39.882Z",
   "documents": [
     {
       "slug": "components",
       "url": "/genai-docs/docs/components/",
       "documentId": "fdf07067-1524-47de-9713-022e27a64d82",
-      "revisionId": "b496f246-3c6a-4cbd-85ad-f10219ef6423",
-      "sha256": "e239647d9ac906f5963e0e91c42c6cddb3f492b8f9520f950b61646e2067f95b",
+      "revisionId": "50e84480-6a9f-4374-8c4f-143ec80f74b3",
+      "sha256": "d9dc98985cf32dc2c90db430ca83053e40197c5025ceb0d411f3075129ce2463",
       "bytes": 10885014
+    },
+    {
+      "slug": "dubbo-go-rpc-histogram",
+      "url": "/genai-docs/docs/dubbo-go-rpc-histogram/",
+      "documentId": "ae744c6a-ecbb-404e-9b13-d044a0698086",
+      "revisionId": "50efcffb-086f-43df-b7c8-fe54d0e96e3d",
+      "sha256": "81bfa33fcce25afa4a0bacafbfb9b2f884137290bd307d2d4a93b0c41fad772b",
+      "bytes": 10877169
     }
   ]
 }

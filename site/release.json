@@ -1,21 +1,29 @@
 {
-  "builtAt": "2026-11-03T02:22:39.882Z",
+  "builtAt": "2026-11-04T05:15:41.881Z",
   "documents": [
     {
       "slug": "components",
       "url": "/genai-docs/docs/components/",
       "documentId": "fdf07067-1524-47de-9713-022e27a64d82",
-      "revisionId": "50e84480-6a9f-4374-8c4f-143ec80f74b3",
-      "sha256": "d9dc98985cf32dc2c90db430ca83053e40197c5025ceb0d411f3075129ce2463",
+      "revisionId": "4da4ef7e-279c-4eb6-8c4d-ac0e82e81ab3",
+      "sha256": "1bb9d2162146a971e8a16031adbf563fc44030a6887511047d3111bef6c90b63",
       "bytes": 10885014
     },
     {
       "slug": "dubbo-go-rpc-histogram",
       "url": "/genai-docs/docs/dubbo-go-rpc-histogram/",
       "documentId": "ae744c6a-ecbb-404e-9b13-d044a0698086",
-      "revisionId": "50efcffb-086f-43df-b7c8-fe54d0e96e3d",
-      "sha256": "81bfa33fcce25afa4a0bacafbfb9b2f884137290bd307d2d4a93b0c41fad772b",
+      "revisionId": "082d23ce-6da6-4ff7-9eb1-75080608e449",
+      "sha256": "69e58dc60b53c0f2ccbd81290d73b0593fdb5d4af9946163352f1489a1d3048e",
       "bytes": 10877169
+    },
+    {
+      "slug": "dubbo-go-rpc-histogram-pr",
+      "url": "/genai-docs/docs/dubbo-go-rpc-histogram-pr/",
+      "documentId": "869b23c7-77df-4943-bee7-ac08a84af01b",
+      "revisionId": "0b9d53fc-c8ad-4a2f-8667-5ffdfdf64e21",
+      "sha256": "84af8e9bff4cb650aa0488c34dce182c0f853faf103feefc094625028b258b23",
+      "bytes": 10881596
     }
   ]
 }

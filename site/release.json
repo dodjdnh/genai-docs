@@ -1,29 +1,37 @@
 {
-  "builtAt": "2026-11-04T06:07:37.727Z",
+  "builtAt": "2026-11-09T01:18:42.134Z",
   "documents": [
     {
       "slug": "components",
       "url": "/genai-docs/docs/components/",
       "documentId": "fdf07067-1524-47de-9713-022e27a64d82",
-      "revisionId": "51006108-f05f-45dc-a87b-aa99d768e6ba",
-      "sha256": "bc937f0cdc34e0ab639b8588999e52604f3889e7b30811692f368209dbdb8f7e",
+      "revisionId": "af1edc16-6504-418a-9101-e790567dc470",
+      "sha256": "37097b6c70f90cb0af4ce6d5c9600ed0b369e1907d09a80270b4f5a3ccc7c2bb",
       "bytes": 10885014
     },
     {
       "slug": "dubbo-go-rpc-histogram",
       "url": "/genai-docs/docs/dubbo-go-rpc-histogram/",
       "documentId": "ae744c6a-ecbb-404e-9b13-d044a0698086",
-      "revisionId": "37d305fc-8c73-4d1d-8399-85861e33059a",
-      "sha256": "8c8ff26efcb7c71a55f11968d1e43c78d6f4b793dc5497f8d96fe0b869b95d3e",
+      "revisionId": "f67f372e-a991-4712-b549-c375c56381b4",
+      "sha256": "63f9933af13afb385e70ea2deca5423f806cf119c75b9efa9ad7020147e8f383",
       "bytes": 10877169
     },
     {
       "slug": "dubbo-go-rpc-histogram-pr",
       "url": "/genai-docs/docs/dubbo-go-rpc-histogram-pr/",
       "documentId": "869b23c7-77df-4943-bee7-ac08a84af01b",
-      "revisionId": "602161fb-5ea1-4810-9150-df9105e03317",
-      "sha256": "f4ecceef0255ce2639752c3db25ed6019b697c899241215b8a6121a3016c2330",
+      "revisionId": "65e09ea4-f8b3-4335-85a6-93566d58a2db",
+      "sha256": "a490682d01330e718988477dd5d1bf6c01b76ee3e4c5f707e36390140918f94f",
       "bytes": 10889283
+    },
+    {
+      "slug": "dubbo-go-metrics-event-loss",
+      "url": "/genai-docs/docs/dubbo-go-metrics-event-loss/",
+      "documentId": "e709f705-f702-4d24-9413-1f26712d8c28",
+      "revisionId": "706c1c35-fbc9-4388-8aa9-57a052779317",
+      "sha256": "8c6ea19f690a2233b845df8e11ed8f59560da26a7b654e900eb16bb514e59c31",
+      "bytes": 10962672
     }
   ]
 }

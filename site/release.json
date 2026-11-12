@@ -1,37 +1,53 @@
 {
-  "builtAt": "2026-11-09T01:18:42.134Z",
+  "builtAt": "2026-11-12T01:45:38.932Z",
   "documents": [
     {
       "slug": "components",
       "url": "/genai-docs/docs/components/",
       "documentId": "fdf07067-1524-47de-9713-022e27a64d82",
-      "revisionId": "af1edc16-6504-418a-9101-e790567dc470",
-      "sha256": "37097b6c70f90cb0af4ce6d5c9600ed0b369e1907d09a80270b4f5a3ccc7c2bb",
+      "revisionId": "0e4a6771-03cf-41d1-8e85-8aa4711794cd",
+      "sha256": "9f42b5b70d47268fe2aa5de80776dc7f1008f4ca2c6dc273c2305ff8e2e9dffb",
       "bytes": 10885014
     },
     {
       "slug": "dubbo-go-rpc-histogram",
       "url": "/genai-docs/docs/dubbo-go-rpc-histogram/",
       "documentId": "ae744c6a-ecbb-404e-9b13-d044a0698086",
-      "revisionId": "f67f372e-a991-4712-b549-c375c56381b4",
-      "sha256": "63f9933af13afb385e70ea2deca5423f806cf119c75b9efa9ad7020147e8f383",
+      "revisionId": "4f7e0d71-50ec-43b7-89d4-f1701129da14",
+      "sha256": "294fbb0c9d3782b761277ffc0e364103da0fc36cf241e95ee2afc4bb2fbefeac",
       "bytes": 10877169
     },
     {
       "slug": "dubbo-go-rpc-histogram-pr",
       "url": "/genai-docs/docs/dubbo-go-rpc-histogram-pr/",
       "documentId": "869b23c7-77df-4943-bee7-ac08a84af01b",
-      "revisionId": "65e09ea4-f8b3-4335-85a6-93566d58a2db",
-      "sha256": "a490682d01330e718988477dd5d1bf6c01b76ee3e4c5f707e36390140918f94f",
+      "revisionId": "101d4a9c-3a93-42ee-ab8e-14d68be17d3f",
+      "sha256": "9fe97b6ee64fdb35fa764bf1f4574cb20773917b92755479f5e3123529a2d845",
       "bytes": 10889283
     },
     {
       "slug": "dubbo-go-metrics-event-loss",
       "url": "/genai-docs/docs/dubbo-go-metrics-event-loss/",
       "documentId": "e709f705-f702-4d24-9413-1f26712d8c28",
-      "revisionId": "706c1c35-fbc9-4388-8aa9-57a052779317",
-      "sha256": "8c6ea19f690a2233b845df8e11ed8f59560da26a7b654e900eb16bb514e59c31",
+      "revisionId": "a0e3c1dd-7f87-46e1-aae5-a5bcb9a31597",
+      "sha256": "5d2ee326251dd09dbec13087023da483712ed375b2f3d9df3ce41979ee25f64d",
       "bytes": 10962672
+    },
+    {
+      "slug": "dubbo-go-metrics-event-loss-e2e",
+      "url": "/genai-docs/docs/dubbo-go-metrics-event-loss-e2e/",
+      "documentId": "32bd8050-71d2-4b25-9e25-0b468933d06f",
+      "revisionId": "ac319b71-a868-49e8-b4a2-9a4c1b448cea",
+      "sha256": "0e906ff568c56b31db856fca0f55a5c928560b78919e5e935c0b01ea3cc10d49",
+      "bytes": 10892671
+    },
+    {
+      "slug": "dubbo-go-metrics-event-loss-pr",
+      "url": "/genai-docs/docs/dubbo-go-metrics-event-loss-pr/",
+      "documentId": "9c0d5299-ea3a-449e-bdae-5ac054921ac8",
+      "revisionId": "b64ee8a7-32bd-433c-90d7-3b90f54a8aef",
+      "sha256": "dc2b4c4d69de65881ee1c9bc0293d5c00270a4ed39133cf1d9152bfa7eb438b6",
+      "bytes": 10887643
     }
   ]
 }

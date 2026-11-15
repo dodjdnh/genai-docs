@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-15T05:28:13.990Z",
+  "builtAt": "2026-11-15T05:46:06.406Z",
   "documents": [
     {
       "slug": "components",
@@ -53,9 +53,16 @@
       "slug": "ai-open-source-workflow",
       "url": "/genai-docs/docs/ai-open-source-workflow/",
       "documentId": "2815bdad-cfeb-4556-9bdc-5dd04ed2f6d4",
-      "revisionId": "9e6bdf4e-c176-4b20-8e71-cd9c1511d452",
-      "sha256": "4a70d43e3be2f652d466e491e9f20c710ce576d280b49c529f037acebf1f1f7e",
+      "revisionId": "3dccd598-2ab6-4530-8c06-2946b5d6283d",
+      "sha256": "35bde03c04cf0559beb9ab31aba96d4c1a8c3745755b6af1236518dc9fbf9ee4",
       "bytes": 10878964
     }
-  ]
+  ],
+  "previousReleaseHash": "b35f2c02b268491c5208102e7c103562950c91cc3da66243dccb7fda3600c161",
+  "verification": {
+    "mode": "selected",
+    "slugs": [
+      "ai-open-source-workflow"
+    ]
+  }
 }

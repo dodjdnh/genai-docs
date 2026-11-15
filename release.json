@@ -1,53 +1,61 @@
 {
-  "builtAt": "2026-11-12T01:45:38.932Z",
+  "builtAt": "2026-11-15T05:28:13.990Z",
   "documents": [
     {
       "slug": "components",
       "url": "/genai-docs/docs/components/",
       "documentId": "fdf07067-1524-47de-9713-022e27a64d82",
-      "revisionId": "0e4a6771-03cf-41d1-8e85-8aa4711794cd",
-      "sha256": "9f42b5b70d47268fe2aa5de80776dc7f1008f4ca2c6dc273c2305ff8e2e9dffb",
+      "revisionId": "ae9d6258-f7e6-4053-915c-e9ad20feb68d",
+      "sha256": "722de4cd3517f712fd25ab2d14c7845a907f57639b7938cf54ea8ef860601868",
       "bytes": 10885014
     },
     {
       "slug": "dubbo-go-rpc-histogram",
       "url": "/genai-docs/docs/dubbo-go-rpc-histogram/",
       "documentId": "ae744c6a-ecbb-404e-9b13-d044a0698086",
-      "revisionId": "4f7e0d71-50ec-43b7-89d4-f1701129da14",
-      "sha256": "294fbb0c9d3782b761277ffc0e364103da0fc36cf241e95ee2afc4bb2fbefeac",
+      "revisionId": "441a1c82-f22e-44af-b281-576fb785b2a0",
+      "sha256": "ff26581976bbd8e3a1ca647a9253e19efea94b52889c5129c619092ea460a8ed",
       "bytes": 10877169
     },
     {
       "slug": "dubbo-go-rpc-histogram-pr",
       "url": "/genai-docs/docs/dubbo-go-rpc-histogram-pr/",
       "documentId": "869b23c7-77df-4943-bee7-ac08a84af01b",
-      "revisionId": "101d4a9c-3a93-42ee-ab8e-14d68be17d3f",
-      "sha256": "9fe97b6ee64fdb35fa764bf1f4574cb20773917b92755479f5e3123529a2d845",
+      "revisionId": "807ae5cc-cb9f-4762-8004-01c4d7dc492e",
+      "sha256": "4791943de0f12ae190490e4361e7fed32d92ff096eda72bc417b43c07a609027",
       "bytes": 10889283
     },
     {
       "slug": "dubbo-go-metrics-event-loss",
       "url": "/genai-docs/docs/dubbo-go-metrics-event-loss/",
       "documentId": "e709f705-f702-4d24-9413-1f26712d8c28",
-      "revisionId": "a0e3c1dd-7f87-46e1-aae5-a5bcb9a31597",
-      "sha256": "5d2ee326251dd09dbec13087023da483712ed375b2f3d9df3ce41979ee25f64d",
+      "revisionId": "f5831bb4-54eb-4cdd-b2ec-19d7ce17e0cc",
+      "sha256": "80b0c5072c1c8de22225de5c7c309988a24a4b444716044857c68cdaf6040d3e",
       "bytes": 10962672
     },
     {
       "slug": "dubbo-go-metrics-event-loss-e2e",
       "url": "/genai-docs/docs/dubbo-go-metrics-event-loss-e2e/",
       "documentId": "32bd8050-71d2-4b25-9e25-0b468933d06f",
-      "revisionId": "ac319b71-a868-49e8-b4a2-9a4c1b448cea",
-      "sha256": "0e906ff568c56b31db856fca0f55a5c928560b78919e5e935c0b01ea3cc10d49",
+      "revisionId": "38a61e63-fef9-4663-8a40-82208c07ef71",
+      "sha256": "03e4218f2b8cc1a94d630cf1925ab056b655badf2bbfab887296cf09dc1bbfa8",
       "bytes": 10892671
     },
     {
       "slug": "dubbo-go-metrics-event-loss-pr",
       "url": "/genai-docs/docs/dubbo-go-metrics-event-loss-pr/",
       "documentId": "9c0d5299-ea3a-449e-bdae-5ac054921ac8",
-      "revisionId": "b64ee8a7-32bd-433c-90d7-3b90f54a8aef",
-      "sha256": "dc2b4c4d69de65881ee1c9bc0293d5c00270a4ed39133cf1d9152bfa7eb438b6",
+      "revisionId": "c05b5a6f-0395-40f9-bd9c-c1d23bc853b5",
+      "sha256": "a3da40629b403e3d25bcdbe5891145417fd4802ceb42a40ed3270a53f2768ba4",
       "bytes": 10887643
+    },
+    {
+      "slug": "ai-open-source-workflow",
+      "url": "/genai-docs/docs/ai-open-source-workflow/",
+      "documentId": "2815bdad-cfeb-4556-9bdc-5dd04ed2f6d4",
+      "revisionId": "9e6bdf4e-c176-4b20-8e71-cd9c1511d452",
+      "sha256": "4a70d43e3be2f652d466e491e9f20c710ce576d280b49c529f037acebf1f1f7e",
+      "bytes": 10878964
     }
   ]
 }
